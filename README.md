@@ -1,9 +1,11 @@
 # svg-icons
 SVG Files for Drawing on the Web
 
-Here is a [link to my i6 page][1]
+This project was extended from Wazir's original icon system.  
 
-### Each icon corrsponds to a different holiday: 
+[Original Icon Repository](https://github.com/Waz1215/svg-icons)
+
+### Each icon corresponds to a different holiday: 
 ### Heart = Valentine's Day 
 ### Clover = St. Patrick's 
 ### Egg Basket = Easter 
@@ -11,5 +13,6 @@ Here is a [link to my i6 page][1]
 ### Pumpkin = Halloween 
 ### Turkey = Thanksgiving 
 ### Tree = Christmas
+### _Menorah = Hanukkah_
 
-[1]: http://i6.cims.nyu.edu/~war256/380/Assignment2/IconSystem.html "SVG Icon System"
+The icon I added was the Menorah SVG file, created with Inkscape.
